@@ -1,0 +1,24 @@
+- What will be the final output(s) of the form? I.e. should it generate an email, a PDF document, send the results to another system, upload the results to cloud storage, provide an internal interface to browse the results, or a combination of the above?
+
+- How many questions and steps will the app have?
+
+	- Should we break up the form into a wizard-like interface, with distinct and separated steps, to not overwhelm/confuse the user?
+
+	- Should the user have the ability to save their responses and come back to edit/augment them later?
+
+- Will the questions be known in advance and unlikely to change, or will they need to be adjusted from time to time?
+
+	- If so, would you be interested in a complementary tool to be able to edit the questions and steps?
+
+- Will we be integrating with any existing internal or third-party systems? Such as address validation APIs, or an identity verification system?
+
+- Will the form need to support multiple languages? 
+
+- Will the users be sharing any potentially sensitive or confidential information?
+
+- Will the form be accepting payment(s) directly (i.e. for the application fee)?
+
+- Do you have data on the age range and potential tech-savviness of the target users?
+
+- Do you have estimates on what kind of devices most of our target users will use to access the form?
+
